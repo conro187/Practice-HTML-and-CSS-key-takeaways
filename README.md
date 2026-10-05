@@ -1,6 +1,25 @@
 # Practice-HTML-and-CSS-key-takeaways
 Practice: HTML and CSS key takeaways
 
+For this assignment, let's practice by formatting a document you have already written, such as a paper you wrote for another class. Format it using HTML and style it with CSS, using at least these formatting elements:
+
+Title and headings
+Paragraphs
+Bold text (such as strong emphasis for an initial statement)
+Italic text (such as a technical term, keyword, or citation)
+At least one link
+At least one list (ordered or unordered)
+At least one image (such as a photo, chart, figure, or other data display using <figure>)
+A great way to approach this assignment is to start with last week's assignment and apply styles using CSS.
+
+Technical writers often highlight certain formatting in CSS during an early review phase, to help that formatting stand out. Because styling is controlled through CSS, the technical writer can remove the extra highlighting later. Simulate a review phase by applying these styles:
+
+Put the title of the document in a <header> and style it Style the title of your document with maroon for the background color and white for the text color
+Please put any "display" images in a <figure> element. We would have learned this on Thursday; it is a block element that can have an optional <figcaption>. All figures should use a 1-pixel light gray border, with 1 "em" of space inside the box and 2 "em" of space outside it
+Any bold text (such as strong emphasis) should use a red text color (choose a shade that looks good to you)
+Any italic text (such as emphasis or a citation) should use a yellow background color (choose a shade that looks good to you)
+You may include other formatting at your option, such as font or font size. Your document should be 800 to 1000 words.
+
 
 Let's practice what we've learned about HTML! Write a listicle in about 500 words, formatted in HTML, that describes 3 "key takeaways" about HTML.
 For this assignment, you should start a new GitHub project and write your listicle in HTML format. 
